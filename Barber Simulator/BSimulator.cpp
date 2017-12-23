@@ -7,7 +7,7 @@ LARGE_INTEGER t1, t2, tc;
 HANDLE hOut;
 COORD POS = { 0,0 };
 _CONSOLE_CURSOR_INFO cInfo;
-
+//guggugg
 int main()
 {
 	SetConsoleTitleA(LPCSTR("Barber Simulator"));
